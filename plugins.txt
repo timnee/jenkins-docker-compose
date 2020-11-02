@@ -4,3 +4,4 @@ blueocean:1.24.1
 bouncycastle-api:2.18
 command-launcher:1.4
 jdk-tool:1.4
+pipeline-utility-steps:2.6.1
